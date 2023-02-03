@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(190, 185, 185);
+  height: 100vh;
+}
+
+.btn-modal {
+  border-radius: 10px;
+  padding: 5px;
+  border: none;
+}
